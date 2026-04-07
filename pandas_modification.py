@@ -25,4 +25,4 @@ print("\nAfter deleting Bonus column:\n", df)
 
 # 5. Rename column
 df = df.rename(columns={"Marks": "Score"})
-print("\nAfter renaming column:\n", df)
+print("\nAfter renaming column:\n", df)   
